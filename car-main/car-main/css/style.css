@@ -1,0 +1,99 @@
+.logo{
+	width:200px;
+}
+.nav-link{
+	color:white;
+	text-transform:uppercase;
+	font-size:14px;
+	
+}
+
+img.d-block {
+    height: 500px;
+	width:100%;
+}
+
+.heading3{
+	text-align:centre;
+}
+.footer{
+	background-color:#192838;
+	padding-top:30px;
+	padding-bottom:50px;
+}
+
+
+.checkboxform{
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.carfeature{
+	font-size:30px;
+	margin-bottom:40px;
+	background-color:#845df9;
+	padding:5px;
+	color:white;
+}
+button.btn.btn-primary {
+    background-color: #845df9;
+}
+a.btn.btn-primary.py-2.px-4.ml-auto.d-none.d-lg-block{
+	background-color: #845df9;
+}
+.footer-heading{
+	color:white;
+}
+.carinner{
+	margin-top:30px;
+}
+
+.conactform{
+	margin-bottom:30px;
+}
+
+
+.haedcenter{
+	text-align:center;
+}
+textarea.form-control {
+	height:300px;
+}
+.conactform input{
+	height:50px;
+}
+.hp1{
+	margin-bottom:30px;
+}
+	
+.footer12{
+	background-color: #717378;
+padding-top:20px;
+padding-bottom:20px;
+    text-align: center;
+
+}
+i.fa-brands.fa-square-instagram {
+    color: #de35b7;
+    font-size: 40px;
+	
+}
+i.fa-brands.fa-facebook {
+    color: #3262db;
+    font-size: 40px;
+    margin-left: 18px;
+}
+
+.fa-brands.fa-twitter{
+	color: #0c50fa;
+    font-size: 40px;
+    margin-left: 18px;
+}
+.fa-brands.fa-telegram{
+	color: #73e329;
+    font-size: 40px;
+    margin-left: 18px;
+}
+
+	
+	
